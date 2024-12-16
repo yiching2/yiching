@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  
+  display: flex;
+  flex-direction: column;  /* 垂直排列 */
+  align-items: center;     /* 將子元素置中 */
+}
+
+.music-player,
+.event-calendar,
+.todo-app {
+  padding: 20px;
+  width: 80%;
+  border: 1px solid #ccc;
+  max-width: 600px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #d9e2ff;
+}
+
+/* 標題樣式 */
+h1 {
+  font-size: 2rem;
+  color: #333;
+}

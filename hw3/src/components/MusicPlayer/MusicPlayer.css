@@ -1,0 +1,57 @@
+.music-player-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #d9e2ff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .current-song {
+    margin-bottom: 20px;
+  }
+  
+  .current-song p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .current-song button {
+    margin-top: 10px;
+    background-color: #639fdf;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .current-song button:hover {
+    background-color: #3d8ee4;
+  }
+  
+  .song-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .song-list li {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .song-list li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .song-list li.active {
+    background-color: #414461;
+    color: white;
+  }
+  
