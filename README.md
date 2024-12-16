@@ -12,5 +12,8 @@
 ### 簡報連結：https://drive.google.com/file/d/1rzLT88AhWt3ibPqeCAi_UaFO_5SPf7GB/view?usp=sharing
 ## [ HW4 ]網站雲端部署
 ### 原始程式碼：https://github.com/yiching2/yiching/tree/main/hw3
-### Render雲端連結：https://yiching.onrender.com
+### Render雲端部署：https://yiching.onrender.com
 ## [ 期末專題 ]
+### Render雲端部署：https://one13120241216-unisynic.onrender.com/
+### 原始程式碼：https://github.com/gwen1008/Unisync
+### 實作演示影片：https://youtu.be/HSzOBWWOVW4?si=YVZTnTnAcIxb4vt3
