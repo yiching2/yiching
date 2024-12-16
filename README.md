@@ -8,7 +8,8 @@
 ## [ HW2 ] React 遊戲設計：點擊次數計算
 ### https://drive.google.com/file/d/1k3V8UqhgkSkaWH4ovIhL2mfgP76myUwd/view?usp=sharing
 ## [ HW3 ]React專案
-### 實作演示：
+### 實作演示影片：
+### 簡報連結：
 ## [ HW4 ]網站雲端部署
 ### 原始程式碼：
 ### [ 期末專題 ]
